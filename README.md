@@ -1,20 +1,23 @@
-# 📊 Week07 Bootcamp2018c Project: Complex API 2
+# My Awesome Project
+I created a project where you can put in a movie title and get back the picture but also get the cast as well.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-### How to submit your code for review:
+![alt tag](http://placecorgi.com/1200/650)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
+**Tech used:** HTML, CSS, JavaScript.
+
+I structured my hmtl first then moved on to my javascript trying to use the driest code possible
+
+## Optimizations
+If given more time i would have deffinetly optimized the code more and really make the code as simple as possible
+
+## Lessons Learned:
+
+this my first complex api so i was able to see how to have them interact with one another was really exciting for me
+
 ```
 I completed the challenge: 5
 I feel good about my code: 4

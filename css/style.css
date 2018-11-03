@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:10px;
+}
+
+header{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.newsCon>section{
+  border-bottom:1px solid black;
+}
+
+#movSmall{
+  font-size: .6em;
+}
+
+
+/***************************************
+MEDIA QUERIES
+*****************************************/
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1023px){
+
+}
+
+/* mobile */
+@media screen and (max-width: 767px){
+
+}
